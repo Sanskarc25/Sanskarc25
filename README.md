@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskar-chakraborty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskar-chakraborty-5a7074292/)
 [![Gmail](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanskar2501ch@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Sanskarc25&style=for-the-badge&color=00b4d8)](https://github.com/Sanskarc25)
 
