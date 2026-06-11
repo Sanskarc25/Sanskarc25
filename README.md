@@ -39,6 +39,13 @@ I stay up-to-date with the latest technologies and best practices — and I ship
 
 ---
 
+### 🔹 [WindBnB](https://github.com/Sanskarc25/WindBnB)
+**What it solves:** WindBNB is a modern full-stack hotel booking app built with React, Node.js & SQLite. It features secure JWT authentication, dynamic property filtering, a custom booking calendar, and an interactive chatbot that lets users search, reserve, and cancel stays directly from the chat UI. Designed with a premium, responsive glassmorphism aesthetic.
+
+**Stack:** HTML · Javascript
+
+**Key result:** Chatbot-driven full-stack booking app — search, reserve & cancel stays via chat, backed by JWT auth and dynamic filtering.Chatbot-driven full-stack booking app — search, reserve & cancel stays via chat, backed by JWT auth and dynamic filtering.
+
 ## 🛠️ Core Stack
 
 | Domain | Tools |
